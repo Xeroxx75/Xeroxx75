@@ -42,7 +42,7 @@ Windows/AD exploitation practice: enumeration, Kerberoast/AS-REP, lateral moveme
 
 ---
 
-## 📄 Resume / Contact  
+## 📄 Contact  
 - **LinkedIn**: https://www.linkedin.com/in/ibrahim-diallo75/  
 - **Email**: <ibrahim.diallo@student-cs.fr>
 
