@@ -37,11 +37,6 @@ Added PE/Mach-O support, extended processor coverage, DWARF handling, and Python
 
 ---
 
-### 🔹 Pentest & AD Labs  
-Windows/AD exploitation practice: enumeration, Kerberoast/AS-REP, lateral movement, privesc.  
-
----
-
 ## 📄 Contact  
 - **LinkedIn**: https://www.linkedin.com/in/ibrahim-diallo75/  
 - **Email**: <ibrahim.diallo@student-cs.fr>
