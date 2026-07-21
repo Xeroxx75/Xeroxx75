@@ -1,4 +1,4 @@
-# Ibrahim Diallo
+# Xeroxx
 
 Cybersecurity engineering student at CentraleSupélec and ECE Paris, focused on **DFIR, malware analysis, Windows internals, and reverse engineering**.
 
