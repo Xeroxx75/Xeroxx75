@@ -3,11 +3,27 @@
 <p align="center"><strong>DFIR | Malware Analysis | Reverse Engineering</strong></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ibrahim-diallo75/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:ibrahim.diallo@student-cs.fr"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://tryhackme.com/p/xeroxx75"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
-  <a href="https://profile.hackthebox.com/profile/019fee30-a361-7166-ac85-0807fc0845f9"><img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box"></a>
-  <a href="https://www.root-me.org/Xeroxx"><img src="https://img.shields.io/badge/Root--Me-000000?style=for-the-badge&logo=target&logoColor=white" alt="Root-Me"></a>
+  <a href="https://www.linkedin.com/in/ibrahim-diallo75/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTQuMTI3IDBjMCAxLjE0LS45MjQgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="mailto:ibrahim.diallo@student-cs.fr">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIgNWgyMHYxNEgyVjV6bTIgMnYuNWw4IDUgOC01VjdINHptMTYgMTBWOS45bC04IDUtOC01VjE3aDE2eiIvPjwvc3ZnPg==" alt="Email">
+  </a>
+  &nbsp;
+  <a href="https://tryhackme.com/p/xeroxx75">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://profile.hackthebox.com/profile/019fee30-a361-7166-ac85-0807fc0845f9">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box">
+  </a>
+  &nbsp;
+  <a href="https://www.root-me.org/Xeroxx">
+    <img src="https://img.shields.io/badge/Root--Me-000000?style=for-the-badge&logo=rootme&logoColor=white" alt="Root-Me">
+  </a>
 </p>
 
 Dual-degree cybersecurity engineering student at CentraleSupélec and ECE Paris, ranked first in my specialization. I am completing my final-year internship in an internal CERT and looking for my first full-time role in DFIR, malware analysis or reverse engineering.
