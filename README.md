@@ -38,6 +38,12 @@ Hands-on investigations covering Linux and Windows incidents, memory and disk fo
 
 `Volatility 3` `KAPE` `Eric Zimmerman tools` `EVTX` `APFS` `YARA`
 
+### [Incident to RCE](https://github.com/Xeroxx75/incident-to-rce)
+
+Controlled binary-exploitation case study reconstructed from a PCAP and C source audit. The complete chain was tested end to end in the original lab environment: format-string leak, off-by-one, pointer corruption, RET hijacking, x86 shellcode and RCE, followed by remediation analysis.
+
+`PCAP` `C` `GDB` `Python` `x86 shellcode` `RCE`
+
 ### [Windows Source-to-Binary Labs](https://github.com/Xeroxx75/windows-re-source-to-binary-labs)
 
 Progressive C/C++ experiments that compare source predictions with PE metadata, disassembly, decompiler output, debugger state and runtime artifacts. The goal is to distinguish developer logic from compiler, CRT, loader and operating-system behavior before reversing unknown binaries.
